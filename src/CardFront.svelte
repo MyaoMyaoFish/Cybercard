@@ -1,6 +1,6 @@
 <div class='h-[200px] w-full flex'>
   <div class='flex-1 flex flex-col justify-between p-4'>
-    <span class='text-4xl font-bold'>嘉何</span>
+    <span class='text-4xl font-bold'>霁淼</span>
     {'♂，'}
     <br>
     {'硕士在读。'}
