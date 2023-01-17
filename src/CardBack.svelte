@@ -14,7 +14,7 @@
     { text: '不会游泳淼淼鱼', icon: bilibili, link: 'https://space.bilibili.com/552011175' },
     { text: '@MyaoMyaoFish', icon: twitter, link: 'https://twitter.com/MyaoMyaoFish' },
     { text: '@MyaoMyaoFish', icon: github, link: 'https://github.com/MyaoMyaoFish' },
-    { text: 'jimyao@outlook.com', icon: envelope, link: 'mailto:jimyao@outlook.com' },
+    { text: 'jimyao@fabi.moe', icon: envelope, link: 'mailto:jimyao@fabi.moe' },
     { text: '感谢 ShellWen 对本页面的贡献', icon: share, link: 'https://blog.gfmc.top/' },
   ]
 </script>
