@@ -7,8 +7,10 @@
     <br>
     {'南宁出没，'}
     <br>
-    {'吟诗一首：'<span id="jinrishici-sentence">正在加载今日诗词....</span>
-<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>}
+    {'吟诗一首：'}
+    <br>
+    <span id="jinrishici-sentence">等我想想....</span>
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
   </div>
   <img alt='' class='rounded-r-lg' src='/image/avatar.png' />
 </div>
