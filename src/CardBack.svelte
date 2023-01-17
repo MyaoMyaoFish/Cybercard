@@ -29,7 +29,7 @@
     {/each}
   </div>
   <div class='relative'>
-    <img alt='' class='absolute bottom-0 right-0 translate-y-[35px] translate-x-[15px] w-32'
+    <img alt='' class='absolute bottom-0 right-0 translate-y-[30px] translate-x-[15px] w-32'
          src='/image/tx2.png' />
   </div>
 </div>
