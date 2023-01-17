@@ -48,7 +48,7 @@
         <HeadClock class='pt-8' date={currentTime} />
         <HeadWeek date={currentTime} />
         <span class='font-dot text-2xl'>
-          嘉何的电子名片
+          霁淼的电子名片
         </span>
       </header>
       <section class='mt-4 bg-default dark:bg-default-dark'>
