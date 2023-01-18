@@ -3,8 +3,6 @@
     <span class='text-4xl font-bold'>霁淼</span>
     {'♂，'}
     <br>
-    {'硕士在读。'}
-    <br>
     {'南宁出没，'}
     <br>
     {'吟诗一首：'}
