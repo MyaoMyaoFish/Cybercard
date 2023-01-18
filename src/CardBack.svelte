@@ -12,6 +12,7 @@
   const socials: Social[] = [
     { text: '2300201323', icon: qq, link: 'https://qm.qq.com/cgi-bin/qm/qr?k=vHDuPj4mXJzEMonxat8r1fTpkmX_71bg' },
     { text: '不会游泳淼淼鱼', icon: bilibili, link: 'https://space.bilibili.com/552011175' },
+    { text: '不会游泳淼淼鱼', icon: weibo, link: 'https://weibo.com/u/7815234820' },
     { text: '@MyaoMyaoFish', icon: twitter, link: 'https://twitter.com/MyaoMyaoFish' },
     { text: '@MyaoMyaoFish', icon: github, link: 'https://github.com/MyaoMyaoFish' },
     { text: 'jimyao@fabi.moe', icon: envelope, link: 'mailto:jimyao@fabi.moe' },
